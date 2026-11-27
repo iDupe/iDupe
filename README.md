@@ -1,16 +1,24 @@
-## Hi there 👋
+<table>
+  <tr>
+    <!-- ЛЕВАЯ КОЛОНКА (50% ширины) -->
+    <td width="50%" valign="top">
+      <table>
+        <tr>
+          <td width="76" valign="middle">
+            <img src="https://github.com" width="68" height="68" alt="iDupe" />
+          </td>
+          <td valign="middle">
+            <img src="./header-card.svg" width="100%" alt="iÐupe" />
+          </td>
+        </tr>
+      </table>
+      <br/>
+      <img src="https://vercel.app" width="100%" alt="Статистика активности" />
+    </td>
 
-<!--
-**iDupe/iDupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <!-- ПРАВАЯ КОЛОНКА (50% ширины) -->
+    <td width="50%" valign="top">
+      <img src="./about-card.svg" width="100%" alt="О себе" />
+    </td>
+  </tr>
+</table>
