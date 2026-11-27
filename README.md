@@ -1,27 +1,73 @@
-# 💫 About Me:
-Indie developer.<br><br>My primary focus is ML. I build a variety of AI systems, have a solid understanding of how they work, and am proficient with the core tools used for training models.<br><br>Additionally, I am an active member of the Mindustry community—developing mods, programming in Mlog, and creating schematics.
+<!-- github readme profile | iDupe | flat round icons for socials (mail, tg, ds, yt) & tech stack -->
+<div align="center">
 
+# 👋 Hi, I'm iDupe!
+### Indie Developer & ML Enthusiast
 
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@iDupe.official) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@iÐupe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idupe.official@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iDupe&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=iDupe&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iDupe&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iDupe&theme=slateorange&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iDupe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=iDupe&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 About Me
+
+* **AI & Machine Learning:** I build a variety of AI systems, have a solid understanding of how they work under the hood, and am proficient with core tools for training models.
+* **Mindustry Community:** Active contributor—developing mods, programming in **Mlog**, and designing complex schematics.
+
+---
+
+<div align="center">
+
+### 🌐 Socials
+
+<a href="mailto:idupe.official@gmail.com">
+  <img src="https://icons8.com" width="40" height="40" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://t.me">
+  <img src="https://icons8.com" width="40" height="40" alt="Telegram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com">
+  <img src="https://icons8.com" width="40" height="40" alt="Discord" />
+</a>
+&nbsp;&nbsp;
+<a href="https://youtube.com">
+  <img src="https://icons8.com" width="40" height="40" alt="YouTube" />
+</a>
+
+---
+
+### 💻 Tech Stack
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" alt="Tech Stack" />
+</a>
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://shion.dev" alt="GitHub Stats" />
+<img src="https://demolab.com" alt="GitHub Streak" />
+<br/>
+<img src="https://shion.dev" alt="Top Languages" />
+
+---
+
+### 🏆 GitHub Trophies
+
+<img src="https://vercel.app" alt="GitHub Trophies" />
+
+---
+
+### 🔝 Top Contributed Repos & Quote
+
+<img src="https://vercel.app" alt="Top Contributed Repos" />
+<br/>
+<img src="https://vercel.app" alt="Random Dev Quote" />
+
+---
+
+![Profile Views](https://komarev.com)
+
+</div>
