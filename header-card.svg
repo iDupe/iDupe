@@ -10,15 +10,8 @@
       <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.0"/>
     </linearGradient>
   </defs>
-
   <rect x="1.5" y="1.5" width="357" height="81" rx="12" fill="url(#slateGlass)" stroke="#F59E0B" stroke-width="1.5"/>
   <rect x="1.5" y="1.5" width="357" height="81" rx="12" fill="url(#glassShine)"/>
-
-  <!-- Серый разделитель | -->
   <line x1="20" y1="20" x2="20" y2="64" stroke="#64748B" stroke-width="2" stroke-linecap="round"/>
-
-  <!-- Ник • iÐupe • в янтарном цвете -->
-  <text x="38" y="50" fill="#F59E0B" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif" font-size="26" font-weight="700" letter-spacing="0.5">
-    • iÐupe •
-  </text>
+  <text x="38" y="50" fill="#F59E0B" font-family="sans-serif" font-size="26" font-weight="700">• iDupe •</text>
 </svg>
