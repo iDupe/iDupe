@@ -20,7 +20,7 @@
 ### 🌐 Socials
 
 <a href="mailto:idupe.official@gmail.com">
-  <img src="https://icons8.com" width="40" height="40" alt="Email" />
+  <img src="[https://icons8.com](https://skillicons.dev/icons?i=all)" width="40" height="40" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me">
