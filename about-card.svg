@@ -1,0 +1,20 @@
+<svg width="450" height="276" viewBox="0 0 450 276" fill="none" xmlns="http://w3.org">
+  <defs>
+    <linearGradient id="aboutGlass" x1="0" y1="0" x2="450" y2="276" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0.90"/>
+      <stop offset="65%" stop-color="#1E293B" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#78350F" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="aboutShine" x1="0" y1="0" x2="0" y2="276" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="30%" stop-color="#FFFFFF" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1.5" y="1.5" width="447" height="273" rx="12" fill="url(#aboutGlass)" stroke="#F59E0B" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="447" height="273" rx="12" fill="url(#aboutShine)"/>
+  <text x="24" y="38" fill="#F59E0B" font-family="sans-serif" font-size="18" font-weight="700">// ABOUT ME</text>
+  <line x1="24" y1="50" x2="426" y2="50" stroke="#334155" stroke-width="1"/>
+  <text x="24" y="80" fill="#E2E8F0" font-family="sans-serif" font-size="15">
+    <tspan x="24" dy="0">[ Text goes here ]</tspan>
+  </text>
+</svg>
